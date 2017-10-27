@@ -13,11 +13,12 @@ I am an undergradute majored in Mathematics & Economics, and seeking for opportu
   * Constructed a least risky portfolio with minimized Conditional Value-at-risk
   * Used quantile regression to minimize CVaR
   * Applied MCP penalty to cope with the dimensionality issue in large portfolios
+  * Working for the simulation exercise and empirical analysis
 
 * Research Assistant, Shenzhen Insititue of Advanced Technology, Chinese Academy of Science, 2017.07- present
   * Used differential expression analysis and gene co-expression network analysis to find out aberrantly expressed gene
   * Did literature review about the measure of similarity (particularly between two sets)
-  * Prepared for some researches in Bayesian sensitivity analysis
+  * Preparing for some researches in Bayesian sensitivity analysis
 
 * Research Assistant, Prof. Richard Freeman, Harvard, China Gazetteer Program, 2016.07-2016.08
   * Sorted out over 7,000 documents of Chinese County collected
