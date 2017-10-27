@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<div class="wrapper">
+  <header>
+    <hl> Welcome to Jiaqi's Page</hl>
+    <br/>
+    
+## Welcome to Jiaqi's Page
 
-You can use the [editor on GitHub](https://github.com/keeliachow/keeliachow.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am an undergradute majored in Mathematics & Economics, and seeking for opportunities to take more advanced stduies in statistics as a PhD.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### EDUCATION 
+* B.S. in Mathematics & B.A in Economics, Southwestern University of Finance and Economics(SWUFE), Chengdu, China, till now
+  Overall GPA: 3.6/5.0 (86/100), Rank: top 5%
+  
+### RESEARCH EXPERIENCE
+* Research Fellow, Portfolio Allocation with Conditional Value-at-risk Based on MCP penalty, SWUFE, 2017.03- present
+  * Constructed a least risky portfolio with minimized Conditional Value-at-risk
+  * Used quantile regression to minimize CVaR
+  * Applied MCP penalty to cope with the dimensionality issue in large portfolios
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Research Assistant, Shenzhen Insititue of Advanced Technology, Chinese Academy of Science, 2017.07- present
+  * Used differential expression analysis and gene co-expression network analysis to find out aberrantly expressed gene
+  * Did literature review about the measure of similarity (particularly between two sets)
+  * Prepared for some researches in Bayesian sensitivity analysis
 
-```markdown
-Syntax highlighted code block
+* Research Assistant, Prof. Richard Freeman, Harvard, China Gazetteer Program, 2016.07-2016.08
+  * Sorted out over 7,000 documents of Chinese County collected
+  * Formed a preliminary procedure for the data cleaning and integration process together with team members
+  * Shouldered the responsibility of preliminary descriptive statistics and analysis of the useful data
+  
 
-# Header 1
-## Header 2
-### Header 3
+* Research Fellow, Prediction of  the Default Probability of Financial Customers, SWUFE, 2016.10-2016.12
+  * Applied logistic regression to analyze the relationship between customer’s default information and their transaction of bank account within 6 months
+  * Extracted features through cluster analysis and PCA
+  * Dealt with over 7,000 sample data and predict the relevant default probability
+  
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keeliachow/keeliachow.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### HONORS, FELLOWSHIP, AND GRANTS
+* First-Class School Level Academic Scholarship for three times, 2016-2017
+* Third Prize in Chinese Economic History Thesis Competition of China Gazetteer Program, 2016
+* Honorable Prize in MCM, 2017
