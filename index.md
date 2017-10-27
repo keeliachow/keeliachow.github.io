@@ -1,9 +1,3 @@
-<div class="wrapper">
-  <header>
-    <hl> Welcome to Jiaqi's Page</hl>
-    <br/>
- 
- 
 
 ## Welcome to Jiaqi's Page
 
